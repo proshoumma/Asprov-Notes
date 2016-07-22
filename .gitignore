@@ -1,0 +1,10 @@
+#node
+node_modules
+
+#android
+android/build
+android/app/build
+
+#skip ios
+ios
+index.ios.js

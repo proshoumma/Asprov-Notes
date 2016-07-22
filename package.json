@@ -1,0 +1,18 @@
+{
+  "name": "AsprovNotes",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1",
+    "react": "15.2.1",
+    "react-native": "0.29.2",
+    "react-native-vector-icons": "^2.0.3",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-storage": "^4.0.1",
+    "redux-storage-engine-reactnativeasyncstorage": "^1.0.1"
+  }
+}
