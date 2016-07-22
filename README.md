@@ -1,7 +1,7 @@
 # Asprov-Notes
 A notes taking application using React Native. This is a practise project to learn react native. It is my first application using this technology. I'm very excited about it. If there is any bug or improvement can me made, I would really appricate suggestions, feedback, PRs and Issues.
 
-Installable APK : <a href="./apk/AsprovNotes.apk" target="_blank">Download</a>
+[Installable APK](https://github.com/shoumma/Asprov-Notes/raw/master/apk/AsprovNotes.apk)
 
 ![Preview](./arts/notesApp.gif)
 
@@ -28,6 +28,6 @@ react-native start
 ```
 
 ## License
-[MIT] (./LICENSE.txt) License
+[MIT] (https://github.com/shoumma/Asprov-Notes/blob/master/LICENSE) License
 
 Made with ♥ by Provash Shoumma
