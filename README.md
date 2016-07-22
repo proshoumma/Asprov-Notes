@@ -1,5 +1,5 @@
 # Asprov-Notes
-A notes taking application using React Native. This is a practise project to learn react native. It is my first application using this technology. I'm very excited about it. If there is any bug or improvement can me made, I would really appricate suggestions, feedback, PRs and Issues.
+A notes taking application using React Native. This is a practise project to learn react native. It is my first application using this technology. I'm very excited about it. If there is any bug or improvement can be made, I would really appricate suggestions, feedback, PRs and Issues.
 
 [Installable APK](https://github.com/shoumma/Asprov-Notes/raw/master/apk/AsprovNotes.apk)
 
