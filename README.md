@@ -30,4 +30,4 @@ react-native start
 ## License
 [MIT] (https://github.com/shoumma/Asprov-Notes/blob/master/LICENSE) License
 
-Made with ♥ by Provash Shoumma
+Made with ♥ by [Provash Shoumma](https://twitter.com/pshoumma)
